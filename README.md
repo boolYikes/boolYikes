@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 --> 
 <div align="left">
 
-  ![boolYikes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boolYikes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+  ![This repo](https://github-readme-stats.vercel.app/api/top-langs/?username=boolYikes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
   
 </div>
+
 <div align="left">
-  
-  ![boolYikes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=boolYikes&theme=vue-dark&hide_border=true)
+
+  ![Org](https://github-readme-stats.vercel.app/api/top-langs/?username=classroom-dee&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
   
 </div>
