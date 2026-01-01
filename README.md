@@ -14,14 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<div align="left">
-
-  ![This repo](https://github-readme-stats.vercel.app/api/top-langs/?username=boolYikes&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  
-</div>
-
-<div align="left">
-
-  ![Org](https://github-readme-stats.vercel.app/api/top-langs/?username=classroom-dee&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boolYikes&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&border_color=e4e2e2&bg_color=fffefe&hide_border=false&theme=default&cache_seconds=21600&locale=en&border_radius=4.5&hide=stars,commits,prs,issues,contribs&hide_title=false&card_width=500&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&exclude_repo=repo1,repo2&custom_title=Hello%20World&text_bold=true&disable_animations=false&ring_color=2f80ed&number_format=short&number_precision=2&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&commits_year=2025)
